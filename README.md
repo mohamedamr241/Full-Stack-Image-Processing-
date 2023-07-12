@@ -5,7 +5,7 @@ This project aims to give you a real-world scenario in which you would read and 
 ## The Environment 
 1. to access the api
  - http://localhost:8000/main/
-2. http://localhost:3000/main/images?filename=fjord&width=200&height=200
+2. http://localhost:8000/main/images?filename=fjord&width=200&height=200
  - Here it will work and provide the image for you :).
 
 # Running the App
